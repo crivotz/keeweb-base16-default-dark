@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "keeweb-theme-base16-default-dark",
+  "description": "KeeWeb themes based on Base16 default dark",
+  "author": {
+    "name": "Mauro Locatelli",
+    "email": "crivotz@gmail.com",
+    "url": "https://github.com/crivotz/"
+  },
+  "resources": {
+    "css": "WS4Y1+w+RUU5q3inBhhQ3maIuou8ScNAUOMdEJ4SiprvA2U+QpYGt6P+xdLAqo2wZmlEL4VxCLaG8z8gSYLHeqWdAGN+0vt2kzw5JOcd0NojSnYfv23WysdKMgdW/x2xuVuZvuZpGKLQQqO3FIxsxhic4TRmL59nRx5pRkNe+JAGbMLSpUw2LgawISvCV+pKF8v/V7Fc4gjwt80C8qJ/GYlxvDBD+0qrrVdeSVpGKtRxO9I8C+pXPqHgVbhqT14CIsNxiu8zBP/Ka9fn0YEH2IRtOuAvDZdc7v6esWfgsxk5L2faJrCJclKt8autOSH55ZnuWbcR2QsVNonGmMl6/w=="
+  },
+  "licence": "",
+  "url": "https://github.com/crivotz/keeweb-base16-default-dark",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy62ynb1zKtm34+GO30P72r36KOiaVcQj6WMYtxyxlu95YvM9LmcZ1B39sBZS06Vl/wUpFuMnyQR8+C1E9ZktENjzMyMm8n6Elg0sz6/gapJsHrjIFKF4ulw9tgcHPEooJIfOO3DnCFymTxXpgPJctu9bibg2DUuYQY9CAzvdU4n9O/7FWjHDTfF2dBgNR8aID9cG6HWNgYzqNH7B+neQzprbw3mjV8DnGKNnZywMHecUqwnLR31f6BqhgEOgHBDmR+GdHesVf281aI+rVhJxKaqorfAoIDc5E7X0NxSjqmhDshAcF/patmc1dx4o2g+npMIoUgqGhHMPs6FA9LEzsQIDAQAB",
+  "license": "MIT",
+  "theme": {
+    "name": "base16-default-dark",
+    "title": "Base16 Default dark"
+  }
+}
